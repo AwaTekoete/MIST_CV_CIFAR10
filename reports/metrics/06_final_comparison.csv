@@ -1,0 +1,8 @@
+Metrik,Baseline_CNN,ResNet50_TL
+Accuracy,0.7332,0.7385
+CI_low,0.7244,0.7298
+CI_high,0.7418,0.7470
+Macro_F1,0.7315,0.7369
+Macro_Precision,0.7443,0.7403
+Macro_Recall,0.7332,0.7385
+Top2_Accuracy,0.8826,0.8815
