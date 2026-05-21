@@ -98,6 +98,12 @@ MIST_CV_CIFAR10/
 
 ---
 
+## Präsentation
+
+[CIFAR-10 Bildklassifikation — Präsentation (Google Slides)](https://docs.google.com/presentation/d/11Osn1WQdZOsvb5pkb4JPUSBS-LldVlze/edit?usp=sharing&ouid=111057116894655545138&rtpof=true&sd=true)
+
+---
+
 ## Autor
 **AwaTekoete** — MIST Term 09, 2026
 
